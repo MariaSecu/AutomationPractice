@@ -1,4 +1,12 @@
 # AutomationPractice
+
+**Array exercises** 
+Contain 3 classes with array that are used to:
+1. Find the max number from an array
+2. Find the min number from an array
+3. Calculate the average of numbers in an array
+4. Calculate the sum of numbers in an array
+
 **Description:** 
 This project is created to practice and consolidate java knowledge.
 
@@ -9,11 +17,13 @@ This project is created to practice and consolidate java knowledge.
 3. The principle of encapsulation
 4. The principle of abstraction
 
+
 The applied knowledge include:
 1. Data type
 2. Access modifiers
-3. Constructor
-4. Variables
-5. Methods(get and set)
+3. Variables
+4. Arithmetic operations
+5. Static methods
 6. Override methods
 7. Abstract method
+
