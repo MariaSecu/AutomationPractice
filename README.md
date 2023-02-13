@@ -27,3 +27,16 @@ The applied knowledge include:
 6. Override methods
 7. Abstract method
 
+**Palindrome:
+ Contain 2 classes that are used to:
+1. Demonstrate if a word is polindrome or not
+2. Find the char from a word.
+
+The applied knowledge include:
+1. Data type
+2. Access modifiers
+3. Variables
+4. Static methods
+5. For function
+6. If condition
+
